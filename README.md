@@ -2,7 +2,7 @@ A simple Python file sorter that sorts by file extension and puts in their respe
 
 Requirements:
 1. Python
-2. A Way To Copy FIlepaths.
+2. A Computer
 
 That's It
 -HencobGaming
